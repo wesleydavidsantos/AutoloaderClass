@@ -1,4 +1,4 @@
-#AutoloaderClass#
+# AutoloaderClass #
 
 Com essa classe de simples implementação você não mais usar vários require ou include.
 
